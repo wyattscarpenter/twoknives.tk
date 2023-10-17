@@ -1,10 +1,12 @@
 # twoknives.tk
 
-“Jeez, Homer, I thought someone with two wives would be happy.”
-“No, you're thinking of someone with two *knives*.”
-“I gotta tell ya, this is pretty terrific. Hahahahah, yeah!”
-
-Source: _The Simpsons_, season 13 episode 7, "Brawl in the Family", 00:17:31 - 17:41
+> “Jeez, Homer, I thought someone with two wives would be happy.”
+> 
+> “No, you're thinking of someone with two *knives*.”
+> 
+> “I gotta tell ya, this is pretty terrific. Hahahahah, yeah!”
+> 
+> —_The Simpsons_, Season 13 Episode 7, “Brawl in the Family”, 17:31 - 17:41
 
 I believe the video I've used was not mastered in HD, and instead is a post-hoc upscale, which I assume annoys no one but me.
 
